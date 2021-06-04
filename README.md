@@ -47,7 +47,7 @@ The main purpose of the project [Portfolio](https://sheylapozo.github.io/Portfol
 Contributions, issues, and feature requests are welcome!
 
 
-Feel free to check the [issues page](https://github.com/sheylaPozo/Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/sheylaPozo/Portfolio/issues).
 
 
 ## 💗 Show your support
