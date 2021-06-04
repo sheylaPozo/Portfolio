@@ -22,6 +22,7 @@
 
 ![Demo](https://user-images.githubusercontent.com/54015740/120832021-cc7ae500-c525-11eb-9812-ca2a95e061bc.jpg)
 
+![Demo]
 
 ---
 The main purpose of the project [Portfolio](https://sheylapozo.github.io/Portfolio/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
@@ -63,3 +64,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
